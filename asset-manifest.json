@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dog-finder/static/css/main.32742014.css",
+    "main.js": "/dog-finder/static/js/main.1eb67081.js",
+    "static/js/787.66a145e3.chunk.js": "/dog-finder/static/js/787.66a145e3.chunk.js",
+    "index.html": "/dog-finder/index.html",
+    "main.32742014.css.map": "/dog-finder/static/css/main.32742014.css.map",
+    "main.1eb67081.js.map": "/dog-finder/static/js/main.1eb67081.js.map",
+    "787.66a145e3.chunk.js.map": "/dog-finder/static/js/787.66a145e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32742014.css",
+    "static/js/main.1eb67081.js"
+  ]
+}
